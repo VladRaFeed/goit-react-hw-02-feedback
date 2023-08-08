@@ -1,0 +1,18 @@
+.message_wrapper {
+    width: 500px;
+    background-color: #bdfbff;
+    display: flex;
+    justify-content: center;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+
+.message_text {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: 800;
+    line-height: 1.4;
+    font-size: 24px;
+    color: #707070;
+}
