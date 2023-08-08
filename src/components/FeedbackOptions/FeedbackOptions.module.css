@@ -31,4 +31,10 @@
     line-height: 1.4;
     font-size: 24px;
     cursor: pointer;
+    transition: background-color 250ms linear;
+}
+
+.fb_button:hover,
+.fb_button:focus {
+    background-color: #d9dcde;
 }
